@@ -1,4 +1,4 @@
-ktawave Ansible plugin
+Oktawave Ansible plugin
 =======================
 
 Installation
